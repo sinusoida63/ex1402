@@ -1,0 +1,5 @@
+C:\Users\Dinara\Desktop\papka na stole\examples\05\obj\Debug\net6.0\05.csproj.AssemblyReference.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\05\obj\Debug\net6.0\05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinara\Desktop\papka na stole\examples\05\obj\Debug\net6.0\05.AssemblyInfoInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\05\obj\Debug\net6.0\05.AssemblyInfo.cs
+C:\Users\Dinara\Desktop\papka na stole\examples\05\obj\Debug\net6.0\05.csproj.CoreCompileInputs.cache
