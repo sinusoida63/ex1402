@@ -1,0 +1,15 @@
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\bin\Debug\net6.0\04_div.exe
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\bin\Debug\net6.0\04_div.deps.json
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\bin\Debug\net6.0\04_div.runtimeconfig.json
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\bin\Debug\net6.0\04_div.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\bin\Debug\net6.0\04_div.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\obj\Debug\net6.0\04_div.csproj.AssemblyReference.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\obj\Debug\net6.0\04_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\obj\Debug\net6.0\04_div.AssemblyInfoInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\obj\Debug\net6.0\04_div.AssemblyInfo.cs
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\obj\Debug\net6.0\04_div.csproj.CoreCompileInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\obj\Debug\net6.0\04_div.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\obj\Debug\net6.0\refint\04_div.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\obj\Debug\net6.0\04_div.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\obj\Debug\net6.0\04_div.genruntimeconfig.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\04_div\obj\Debug\net6.0\ref\04_div.dll
