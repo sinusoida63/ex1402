@@ -1,0 +1,15 @@
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\obj\Debug\net6.0\progr_02_lek.csproj.AssemblyReference.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\obj\Debug\net6.0\progr_02_lek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\obj\Debug\net6.0\progr_02_lek.AssemblyInfoInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\obj\Debug\net6.0\progr_02_lek.AssemblyInfo.cs
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\obj\Debug\net6.0\progr_02_lek.csproj.CoreCompileInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\bin\Debug\net6.0\progr_02_lek.exe
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\bin\Debug\net6.0\progr_02_lek.deps.json
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\bin\Debug\net6.0\progr_02_lek.runtimeconfig.json
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\bin\Debug\net6.0\progr_02_lek.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\bin\Debug\net6.0\progr_02_lek.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\obj\Debug\net6.0\progr_02_lek.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\obj\Debug\net6.0\refint\progr_02_lek.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\obj\Debug\net6.0\progr_02_lek.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\obj\Debug\net6.0\progr_02_lek.genruntimeconfig.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_02_lek\obj\Debug\net6.0\ref\progr_02_lek.dll
