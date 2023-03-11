@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "progr_03_lek_poporyadku/1.0.0": {
+        "runtime": {
+          "progr_03_lek_poporyadku.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "progr_03_lek_poporyadku/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

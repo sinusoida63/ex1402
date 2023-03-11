@@ -1,0 +1,15 @@
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\obj\Debug\net6.0\progr_03_lek_poporyadku.csproj.AssemblyReference.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\obj\Debug\net6.0\progr_03_lek_poporyadku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\obj\Debug\net6.0\progr_03_lek_poporyadku.AssemblyInfoInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\obj\Debug\net6.0\progr_03_lek_poporyadku.AssemblyInfo.cs
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\obj\Debug\net6.0\progr_03_lek_poporyadku.csproj.CoreCompileInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\bin\Debug\net6.0\progr_03_lek_poporyadku.exe
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\bin\Debug\net6.0\progr_03_lek_poporyadku.deps.json
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\bin\Debug\net6.0\progr_03_lek_poporyadku.runtimeconfig.json
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\bin\Debug\net6.0\progr_03_lek_poporyadku.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\bin\Debug\net6.0\progr_03_lek_poporyadku.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\obj\Debug\net6.0\progr_03_lek_poporyadku.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\obj\Debug\net6.0\refint\progr_03_lek_poporyadku.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\obj\Debug\net6.0\progr_03_lek_poporyadku.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\obj\Debug\net6.0\progr_03_lek_poporyadku.genruntimeconfig.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_03_lek_poporyadku\obj\Debug\net6.0\ref\progr_03_lek_poporyadku.dll
