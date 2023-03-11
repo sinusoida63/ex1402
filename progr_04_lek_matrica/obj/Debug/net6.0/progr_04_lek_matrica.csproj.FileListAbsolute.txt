@@ -1,0 +1,15 @@
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\bin\Debug\net6.0\progr_04_lek_matrica.exe
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\bin\Debug\net6.0\progr_04_lek_matrica.deps.json
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\bin\Debug\net6.0\progr_04_lek_matrica.runtimeconfig.json
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\bin\Debug\net6.0\progr_04_lek_matrica.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\bin\Debug\net6.0\progr_04_lek_matrica.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\obj\Debug\net6.0\progr_04_lek_matrica.csproj.AssemblyReference.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\obj\Debug\net6.0\progr_04_lek_matrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\obj\Debug\net6.0\progr_04_lek_matrica.AssemblyInfoInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\obj\Debug\net6.0\progr_04_lek_matrica.AssemblyInfo.cs
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\obj\Debug\net6.0\progr_04_lek_matrica.csproj.CoreCompileInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\obj\Debug\net6.0\progr_04_lek_matrica.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\obj\Debug\net6.0\refint\progr_04_lek_matrica.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\obj\Debug\net6.0\progr_04_lek_matrica.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\obj\Debug\net6.0\progr_04_lek_matrica.genruntimeconfig.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_04_lek_matrica\obj\Debug\net6.0\ref\progr_04_lek_matrica.dll

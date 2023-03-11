@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "progr_04_lek_matrica/1.0.0": {
+        "runtime": {
+          "progr_04_lek_matrica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "progr_04_lek_matrica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
