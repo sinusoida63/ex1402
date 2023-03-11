@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "progr_03_lek_zam/1.0.0": {
+        "runtime": {
+          "progr_03_lek_zam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "progr_03_lek_zam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
