@@ -1,0 +1,15 @@
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\bin\Debug\net6.0\progr_urok9.exe
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\bin\Debug\net6.0\progr_urok9.deps.json
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\bin\Debug\net6.0\progr_urok9.runtimeconfig.json
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\bin\Debug\net6.0\progr_urok9.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\bin\Debug\net6.0\progr_urok9.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\obj\Debug\net6.0\progr_urok9.csproj.AssemblyReference.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\obj\Debug\net6.0\progr_urok9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\obj\Debug\net6.0\progr_urok9.AssemblyInfoInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\obj\Debug\net6.0\progr_urok9.AssemblyInfo.cs
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\obj\Debug\net6.0\progr_urok9.csproj.CoreCompileInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\obj\Debug\net6.0\progr_urok9.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\obj\Debug\net6.0\refint\progr_urok9.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\obj\Debug\net6.0\progr_urok9.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\obj\Debug\net6.0\progr_urok9.genruntimeconfig.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\progr_urok9\obj\Debug\net6.0\ref\progr_urok9.dll
