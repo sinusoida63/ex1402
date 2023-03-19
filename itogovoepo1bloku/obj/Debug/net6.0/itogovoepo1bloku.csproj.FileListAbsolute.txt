@@ -1,0 +1,15 @@
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\bin\Debug\net6.0\itogovoepo1bloku.exe
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\bin\Debug\net6.0\itogovoepo1bloku.deps.json
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\bin\Debug\net6.0\itogovoepo1bloku.runtimeconfig.json
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\bin\Debug\net6.0\itogovoepo1bloku.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\bin\Debug\net6.0\itogovoepo1bloku.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\obj\Debug\net6.0\itogovoepo1bloku.csproj.AssemblyReference.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\obj\Debug\net6.0\itogovoepo1bloku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\obj\Debug\net6.0\itogovoepo1bloku.AssemblyInfoInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\obj\Debug\net6.0\itogovoepo1bloku.AssemblyInfo.cs
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\obj\Debug\net6.0\itogovoepo1bloku.csproj.CoreCompileInputs.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\obj\Debug\net6.0\itogovoepo1bloku.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\obj\Debug\net6.0\refint\itogovoepo1bloku.dll
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\obj\Debug\net6.0\itogovoepo1bloku.pdb
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\obj\Debug\net6.0\itogovoepo1bloku.genruntimeconfig.cache
+C:\Users\Dinara\Desktop\papka na stole\examples\itogovoepo1bloku\obj\Debug\net6.0\ref\itogovoepo1bloku.dll
